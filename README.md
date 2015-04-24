@@ -1,4 +1,4 @@
-OS3
-===
+Fat32
+=====
 
-Yay !
+A simple Fat32 reader for FUSE.
